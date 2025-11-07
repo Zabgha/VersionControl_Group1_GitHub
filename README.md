@@ -1,13 +1,31 @@
-# Version Control Group X - GitHub
-This repository is created for the Version Control Systems assignment.
+# VersionControl_Group3_GitHub
 
-## Group Members:
-- Zabgha bibi (Team Leader - GitHub)
-- Zeesha Fatima (Collaborator - GitHub)
-- Zainab Aziz (Collaborator - GitHub)
-- Manahil Shahzadi (Collaborator - GitHub)
-## Purpose:
-To learn and practice version control using GitHub, including branching, merging, and collaboration.
+This repository is created for the "Learning Version Control Systems" assignment.
 
-Invite all group members as collaborators.
+## 👩‍💻 Group Members:
+- Zeesha Fatima (Team Leader – GitHub)
+- Arooba
+- Student 3
+- Student 4
+- Student 5
+
+## 🎯 Purpose:
+This repository demonstrates practical version control concepts using GitHub.  
+Each member will contribute by creating branches, making commits, and collaborating to merge their work.
+
+## 🧠 Objectives:
+- Understand version control concepts (commit, branch, merge)
+- Collaborate using Git-based workflows
+- Compare GitHub, GitLab, and Bitbucket
+- Learn conflict resolution during merging
+
+## 🗂 Repository Activities:
+1. Team leader created this repository and uploaded an initial project report.
+2. Collaborators will create their own branches and add content.
+3. All branches will be merged into the main branch.
+4. Conflicts (if any) will be resolved by the team leader.
+
+## 🏁 Final Remarks:
+All branches were merged successfully after reviewing the commits of each collaborator.  
+This repository helped our team learn teamwork, collaboration, and the importance of version control systems.
 
