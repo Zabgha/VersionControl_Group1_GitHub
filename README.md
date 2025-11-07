@@ -1,4 +1,4 @@
-# VersionControl_Group3_GitHub
+# VersionControl_Group1_GitHub
 
 This repository is created for the "Learning Version Control Systems" assignment.
 
