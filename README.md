@@ -3,11 +3,10 @@
 This repository is created for the "Learning Version Control Systems" assignment.
 
 ## 👩‍💻 Group Members:
-- Zeesha Fatima (Team Leader – GitHub)
-- Arooba
-- Student 3
-- Student 4
-- Student 5
+- Zabgha Bibi (Team Leader – GitHub)
+- Zeesha Fatima (Collaborator – GitHub)
+- Zainab Aziz (Collaborator – GitHub)
+- Manahil Shahzadi (Collaborator – GitHub)
 
 ## 🎯 Purpose:
 This repository demonstrates practical version control concepts using GitHub.  
